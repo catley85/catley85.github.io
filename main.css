@@ -23,17 +23,17 @@ h3 {
   line-height: 36px;
 }
 
-#section {
-  align-items: center;
-  min-height: 100vh;
-  padding: 30px 10px;
-  position: relative;
-}
-
 .copyright-copy {
   font-size: 14px;
   position: absolute;
   bottom: 0;
+}
+
+.section {
+  align-items: center;
+  min-height: 100vh;
+  padding: 30px 10px;
+  position: relative;
 }
 
 @media only screen and (max-width: 992px) {
@@ -57,8 +57,8 @@ h3 {
   }
 
   h3 {
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 30px;
+    line-height: 36px;
   }
 }
 
@@ -68,14 +68,5 @@ h3 {
     font-size: 60px;
     letter-spacing: -3px;
     line-height: 60px;
-  }
-
-  h3 {
-    font-size: 18px;
-    line-height: 24px;
-  }
-
-  .copyright-copy {
-    font-size: 10px;
   }
 }
