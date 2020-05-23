@@ -50,6 +50,10 @@ h3 {
     letter-spacing: -1px;
     line-height: 70px;
   }
+
+  h3 {
+    line-height: 2rem;
+  }
 }
 
 @media only screen and (max-width: 576px) {
