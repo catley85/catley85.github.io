@@ -33,6 +33,14 @@ h5 {
   bottom: 0;
 }
 
+.desktop {
+  display: block;
+}
+
+.mobile {
+  display: none;
+}
+
 .section {
   align-items: center;
   min-height: 100vh;
@@ -54,6 +62,14 @@ h5 {
     font-size: 60px;
     letter-spacing: -1px;
     line-height: 70px;
+  }
+
+  .desktop {
+    display: none;
+  }
+
+  .mobile {
+    display: block;
   }
 }
 
