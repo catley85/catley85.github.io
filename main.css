@@ -6,7 +6,8 @@ body {
   background-color: black;
 }
 
-a, a:hover {
+a,
+a:hover {
   color: #00dbb3;
 }
 
@@ -20,6 +21,10 @@ h1 {
 
 h3 {
   font-size: 2rem;
+}
+
+h5 {
+  letter-spacing: 0.04rem;
 }
 
 .copyright-copy {
