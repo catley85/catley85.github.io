@@ -2,8 +2,8 @@
 
 body {
   font-family: 'Roboto Condensed', sans-serif;
-  /* color: white; */
-  /* background-color: black; */
+  /* color: white;
+  background-color: black; */
 }
 
 a,
@@ -12,7 +12,6 @@ a:hover {
 }
 
 h1 {
-  border: solid 28px black;
   font-size: 160px;
   font-weight: 700;
   letter-spacing: -5px;
@@ -55,7 +54,6 @@ h3 {
 
 @media only screen and (max-width: 992px) {
   h1 {
-    border: solid 24px black;
     font-size: 120px;
     line-height: 110px;
   }
@@ -63,7 +61,6 @@ h3 {
 
 @media only screen and (max-width: 768px) {
   h1 {
-    border: solid 20px black;
     font-size: 60px;
     letter-spacing: -1px;
     line-height: 70px;
@@ -80,7 +77,6 @@ h3 {
 
 @media only screen and (max-width: 576px) {
   h1 {
-    border: solid 16px black;
     font-size: 60px;
     letter-spacing: -3px;
     line-height: 60px;
