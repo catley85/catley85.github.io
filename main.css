@@ -4,8 +4,8 @@ body {
   font-family: "Roboto Condensed", sans-serif;
   height: 100%;
   overflow: hidden;
-  background-color: black;
-  color: #efefef;
+  /* background-color: black;
+  color: white; */
 }
 
 a,
